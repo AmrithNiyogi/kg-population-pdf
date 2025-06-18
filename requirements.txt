@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+motor
+pymongo
+langchain
+langchain-openai
+python-dotenv
+llama-index
+neo4j
+pdfplumber
+PyPDF2
