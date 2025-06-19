@@ -10,7 +10,7 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/AmrithNiyogi/kg-population-pdf.git
    cd kg-population-pdf
    ```
 2. **Create a virtual environment (recommended):**
