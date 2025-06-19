@@ -1,5 +1,7 @@
 # KG Population via PDF
 
+![License: Non-Commercial](https://img.shields.io/badge/license-non--commercial-orange)
+
 ## Project Overview
 
 **KG Population via PDF** is a FastAPI-based backend service that ingests PDF documents, extracts structured knowledge (triples), and populates a knowledge graph (KG) using Neo4j. The system leverages LLMs (via Azure OpenAI), LangChain, LlamaIndex, and integrates with MongoDB, Redis, and Neo4j for storage and retrieval. It is designed for rapid ingestion and semantic structuring of unstructured PDF data.
@@ -118,7 +120,13 @@ All configuration is managed via environment variables. Create a `.env` file in 
 - Pull requests and issues are welcome! Please open an issue to discuss major changes.
 - Follow PEP8 and best practices for Python and FastAPI.
 
-### License
+### License 
 
-This project is licensed under the MIT License. See [LICENSE](https://github.com/AmrithNiyogi/kg-population-pdf/blob/main/LICENSE) for details.
 
+- This project is licensed under a **Non-Commercial Use License**.  
+- Personal and academic usage is permitted.  
+- **Commercial use is prohibited** unless prior written permission is granted.
+- See [LICENSE](https://github.com/AmrithNiyogi/kg-population-pdf/blob/main/LICENSE) for details.
+
+
+📩 To obtain a commercial license, contact: [amrithniyogi@gmail.com](mailto:amrithniyogi@gmail.com)
